@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class MoveTest : MonoBehaviour
 {
-    public Transfrom MoveOffset;
+    public Vector3 MoveOffset; 
     // Start is called before the first frame update
     void Start()
     {
