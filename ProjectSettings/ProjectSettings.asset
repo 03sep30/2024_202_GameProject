@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: dbc024b257f17114bb5a3f1e39c40335
+  productGUID: 9c6da2823e219b34bbd6966843e316d7
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -914,11 +914,11 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 77b148ff-e1fb-49bf-a383-6a4896107536
+  cloudProjectId: 319aae93-5395-4751-9bd4-33c4dc823878
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
   projectName: URPProject
-  organizationId: tnwltnqls77-g-shingu-ac-kr
+  organizationId: calendula_unity
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
