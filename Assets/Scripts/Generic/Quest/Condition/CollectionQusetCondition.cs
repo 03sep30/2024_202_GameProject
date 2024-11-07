@@ -26,7 +26,7 @@ namespace MyGame.QuestSystem
         {
             if(this.itemId == itemId)
             {
-                currentAmont = 0;
+                currentAmont++;
             }
         }
     }
